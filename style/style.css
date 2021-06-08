@@ -1,0 +1,18 @@
+.image{
+   height: 70%;
+   width: 70%;
+    border-radius: 50%;
+    
+}
+
+#row1{
+    align-items: center;
+    align-content: center;
+    padding-top: 30px ;
+}
+
+.emoji{
+    
+        width: 1.3rem;
+    
+}
